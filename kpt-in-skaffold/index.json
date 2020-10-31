@@ -41,6 +41,6 @@
     "uilayout": "editor-terminal"
   },
   "backend": {
-    "imageid": "kubernetes-cluster"
+    "imageid": "yuwenma-env"
   }
 }
